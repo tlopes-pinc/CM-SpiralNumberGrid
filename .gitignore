@@ -50,6 +50,7 @@ x86/
 
 # Visual Studio Code settings
 .vscode/
+.vs/
 
 # Rider IDE
 .idea/
